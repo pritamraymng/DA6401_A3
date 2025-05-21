@@ -2,6 +2,8 @@
 
 Wandb Report link:
 
+https://wandb.ai/ma23m018-indian-institute-of-technology-madras/DA6401_A3/reports/DA6401-Assignment-3--VmlldzoxMjg2NTMxMQ
+
 Project Description:
 
 This project aims to build a transliteration system that converts text from one script to another while preserving its phonetic structure. The system leverages advanced neural network architectures, including Recurrent Neural Networks (RNNs), Gated Recurrent Units (GRUs), and Long Short-Term Memory networks (LSTMs). Using encoder-decoder sequence-to-sequence (Seq2Seq) models, the project explores both the conventional approach and enhanced versions incorporating attention mechanisms to improve accuracy. By comparing these different models, the project seeks to identify the most effective method for transliterating text between various languages from the Dakshina Dataset.
