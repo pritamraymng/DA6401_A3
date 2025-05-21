@@ -28,7 +28,7 @@ Summary:
 2. Validation loss without attention: 0.455
 3. Test accuracy without attention: 37.59%
 4. Test loss: 0.582
-5. Best validation accuracy with attention:
-6. Validation loss with attention:
-7. Test accuracy with attention:
-8. Test loss: 
+5. Best validation accuracy with attention: 47.314 %
+6. Validation loss with attention: 0.407
+7. Test accuracy with attention:  41.113 %
+8. Test loss:  0.612
