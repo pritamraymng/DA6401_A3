@@ -22,3 +22,13 @@ Dependencies:
 4. torch
 5. matplotlib
 6. pandas
+
+Summary:
+1. Best validation accuracy without attention: 40.112 %
+2. Validation loss without attention: 0.455
+3. Test accuracy without attention: 37.59%
+4. Test loss: 0.582
+5. Best validation accuracy with attention:
+6. Validation loss with attention:
+7. Test accuracy with attention:
+8. Test loss: 
